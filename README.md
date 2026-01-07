@@ -3,10 +3,13 @@
 ## 目录
 | 分类                    |
 |-----------------------|
+| [本地 AI](#LocalAI)     |
+| [AI 图像](#AIImage)     |
 | [文本编辑](#Text)         |
 | [办公](#Office)         |
 | [截图](#Shot)           |
 | [录屏](#Recording)      |
+| [图片](#Image)          |
 | [视频播放器](#Video)       |
 | [音乐播放器](#Audio)       |
 | [电子书](#Ebooks)        |
@@ -16,6 +19,21 @@
 | [写作](#Writing)        |
 | [RSS](#RSS)           |
 
+### LocalAI
+| LocalAI                                      |
+|----------------------------------------------|
+| [LocalAI](https://github.com/mudler/LocalAI) |
+| []()                                         |
+| [目录](#目录)                                    |
+### AIImage
+| AI 图像                                                           |
+|-----------------------------------------------------------------|
+| [图像 AI 训练](https://github.com/huggingface/pytorch-image-models) |
+| [图像 AI 训练](https://github.com/huggingface/diffusers)            |
+| [非软件 识别文字](https://github.com/PaddlePaddle/PaddleOCR)           |
+| [非软件 背景移除](https://github.com/nadermx/backgroundremover)        |
+| []()                                                            |
+| [目录](#目录)                                                       |
 ### Text
 | 文本编辑                                                      |
 |-----------------------------------------------------------|
@@ -42,6 +60,7 @@
 | [Win Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) |
 | [TTime](https://github.com/InkTimeRecord/TTime)      |
 | [snow-shot](https://github.com/mg-chao/snow-shot)    |
+| [Win ShareX](https://github.com/ShareX/ShareX)       |
 | []()                                                 |
 | [目录](#目录)                                            |
 ### Recording
@@ -51,6 +70,16 @@
 | [eSearch](https://github.com/xushengfeng/eSearch)               |
 | []()                                                            |
 | [目录](#目录)                                                       |
+###  Image
+| 图片                                                            |
+|---------------------------------------------------------------|
+| [imgbrd-grabber 下载](https://github.com/Bionus/imgbrd-grabber) |
+| [upscayl 放大缩小](https://github.com/upscayl/upscayl)            |
+| [ImageMagick](https://github.com/ImageMagick/ImageMagick)     |
+| [Android ImageToolbox](https://github.com/T8RIN/ImageToolbox) |
+| [图片压缩](https://github.com/Lymphatus/caesium-image-compressor) |
+| []()                                                          |
+| [目录](#目录)                                                     |
 ### Video
 | 视频播放器                                                      |
 |------------------------------------------------------------|
